@@ -20,7 +20,7 @@
       "id": "1387455182526484582"
     }
   ],
-  "semanticColors": {
+"semanticColors": {
     "ANDROID_RIPPLE": [
       "#535384"
     ],
@@ -136,7 +136,7 @@
       "#383857"
     ],
     "HEADER_PRIMARY": [
-      "#B8B8E6"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
       "#E6E6F5"
@@ -148,7 +148,7 @@
       "#DEDEE8"
     ],
     "INTERACTIVE_MUTED": [
-      "#8A8AC4"
+      "#B8B8E6"
     ],
     "INTERACTIVE_NORMAL": [
       "#FDFDFD"
@@ -190,10 +190,10 @@
       "#8E8FCC"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#9999C2"
+      "#E6E6F5"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#F2F2F7"
+      "#FFFFFF"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#141421"
@@ -226,13 +226,13 @@
       "#B8B8E6"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB"
+      "#FFFFFF"
     ],
     "TEXT_PRIMARY": [
-      "#FBFBFB"
+      "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
-      "#CCCCE6"
+      "#E6E6F5"
     ],
     "BG_MOD_FAINT": [
       "#3D3D5E"
@@ -433,7 +433,7 @@
       ]
     },
     "themes+": {
-      "customIconOverlays": true,
+      "customIconOfic_new_pins": true,
       "customMessageMentionLineColor": true
     },
     "customOverlays": true
