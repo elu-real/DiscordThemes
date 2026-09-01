@@ -20,7 +20,7 @@
       "id": "1387455182526484582"
     }
   ],
-"semanticColors": {
+  "semanticColors": {
     "ANDROID_RIPPLE": [
       "#535384"
     ],
@@ -28,7 +28,7 @@
       "#0c0c14"
     ],
     "BACKGROUND_ACCENT": [
-      "#9D9FD9"
+      "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
       "#0c0c14"
@@ -64,7 +64,7 @@
       "#42426B"
     ],
     "CHANNELS_DEFAULT": [
-      "#9494B8"
+      "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#2E2E4D"
@@ -139,7 +139,7 @@
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#E6E6F5"
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF"
@@ -148,7 +148,7 @@
       "#DEDEE8"
     ],
     "INTERACTIVE_MUTED": [
-      "#B8B8E6"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
       "#FDFDFD"
@@ -190,7 +190,7 @@
       "#8E8FCC"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#E6E6F5"
+      "#FFFFFF"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#FFFFFF"
@@ -223,7 +223,7 @@
       "#CCCCE6"
     ],
     "TEXT_MUTED": [
-      "#B8B8E6"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
       "#FFFFFF"
@@ -232,7 +232,7 @@
       "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
-      "#E6E6F5"
+      "#FFFFFF"
     ],
     "BG_MOD_FAINT": [
       "#3D3D5E"
